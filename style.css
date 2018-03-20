@@ -1,20 +1,4 @@
-.container {
-    width: 100%;
-    margin: 0 auto;
-    padding: 5px;
-    background-color:azure;
-
-}
-h1 {
-    text-align:center;
-}
-h2 {
-    text-align: center;
-    border-bottom: 1px solid red;
-}
-p {
-    text-align:center;
-    background-color: aqua;
-    font-size: 15px;
-    padding: 10px;
+.jumbo-image {
+    background: url(https://images.pexels.com/photos/375510/pexels-photo-375510.jpeg?h=350&auto=compress&cs=tinysrgb);
+    color: white;
 }
